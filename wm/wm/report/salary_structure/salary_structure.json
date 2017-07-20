@@ -9,7 +9,7 @@
  "is_standard": "Yes", 
  "modified": "2016-05-09 12:46:11.895474", 
  "modified_by": "Administrator", 
- "module": "wm", 
+ "module": "Western Millwork Extensions", 
  "name": "Salary Structure", 
  "owner": "Administrator", 
  "ref_doctype": "Salary Structure", 

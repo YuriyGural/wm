@@ -9,7 +9,7 @@
  "is_standard": "Yes", 
  "modified": "2016-04-13 18:02:30.314199", 
  "modified_by": "Administrator", 
- "module": "wm", 
+ "module": "Western Millwork Extensions", 
  "name": "List of Holidays", 
  "owner": "Administrator", 
  "ref_doctype": "Holiday List", 

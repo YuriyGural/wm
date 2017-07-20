@@ -9,7 +9,7 @@
  "is_standard": "Yes", 
  "modified": "2016-04-13 16:31:22.605600", 
  "modified_by": "Administrator", 
- "module": "wm", 
+ "module": "Western Millwork Extensions", 
  "name": "Attendance Performance Analysis", 
  "owner": "Administrator", 
  "ref_doctype": "Attendance", 

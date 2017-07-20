@@ -7,7 +7,7 @@
  "is_standard": "Yes", 
  "modified": "2014-09-17 10:40:54.497395", 
  "modified_by": "Administrator", 
- "module": "wm", 
+ "module": "Western Millwork Extensions", 
  "name": "Stock Ledger Normal", 
  "owner": "Administrator", 
  "ref_doctype": "Stock Ledger Entry", 

@@ -9,7 +9,7 @@
  "is_standard": "Yes", 
  "modified": "2016-04-13 14:14:05.913657", 
  "modified_by": "Administrator", 
- "module": "wm", 
+ "module": "Western Millwork Extensions", 
  "name": "Leave Application Report", 
  "owner": "Administrator", 
  "ref_doctype": "Leave Application", 
