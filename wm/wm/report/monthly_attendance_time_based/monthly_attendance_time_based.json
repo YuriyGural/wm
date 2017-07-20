@@ -8,7 +8,7 @@
  "is_standard": "Yes", 
  "modified": "2015-09-11 17:41:26.191818", 
  "modified_by": "Administrator", 
- "module": "Western Millwork Extensions", 
+ "module": "Western Millwork", 
  "name": "Monthly Attendance Time Based", 
  "owner": "Administrator", 
  "ref_doctype": "Attendance", 

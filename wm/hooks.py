@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "wm"
-app_title = "Western Millwork Extensions"
+app_title = "Western Millwork"
 app_publisher = "Western Millwork Ltd."
 app_description = "Western Millwork Extensions"
 app_icon = "octicon octicon-color-mode"
@@ -80,23 +80,23 @@ doc_events = {
 # Scheduled Tasks
 # ---------------
 
-scheduler_events = {
+#scheduler_events = {
 #	"all": [
-# 		"wm.wm.scheduled_tasks.communication.daily"
+# 		"wm.tasks.all"
 # 	],
 # 	"daily": [
-# 		"wm.wm.scheduled_tasks.communication.daily"
+# 		"wm.tasks.daily"
 # 	],
 # 	"hourly": [
-# 		"wm.wm.scheduled_tasks.communication.daily"
+# 		"wm.tasks.hourly"
 # 	],
 # 	"weekly": [
 # 		"wm.tasks.weekly"
 # 	]
- 	"monthly": [
- 		"wm.tasks.monthly"
- 	]
- }
+# 	"monthly": [
+# 		"wm.tasks.monthly"
+# 	]
+# }
 
 # Testing
 # -------
