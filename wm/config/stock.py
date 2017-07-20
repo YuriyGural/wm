@@ -11,7 +11,7 @@ def get_data():
 					"is_query_report": True,
 					"name": "Stock Ledger Normal",
 					"doctype": "Stock Ledger Entry",
-				},
+				}
 			]
 		}
 	]
