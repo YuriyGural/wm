@@ -63,19 +63,13 @@ app_license = "MIT"
 # ---------------
 # Hook on document methods and events
 
-doc_events = {
-	"Attendance": {
-		"validate": "wm.wm.validations.attendance.validate",
-		"on_update": "wm.wm.validations.attendance.on_update",
-		"update_after_submit": "wm.wm.validations.attendance.on_update"
-	},
-	"Holiday List":{
-		"validate": "wm.wm.validations.holiday_list.validate"
-	},
-	"Leave Application":{
-		"validate": "rigpl_erpnext.rigpl_erpnext.validations.leave_application.validate"
-	},
-}
+# doc_events = {
+# 	"*": {
+# 		"on_update": "method",
+# 		"on_cancel": "method",
+# 		"on_trash": "method"
+# 	}
+# }
 
 # Scheduled Tasks
 # ---------------
